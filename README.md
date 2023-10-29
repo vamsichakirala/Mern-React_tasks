@@ -1,1 +1,1 @@
-# Responsive-paragraph-word-counter
+# REACT-TASK-1
